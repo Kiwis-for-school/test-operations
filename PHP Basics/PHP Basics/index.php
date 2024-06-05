@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+//Imagine using PHP lol
 <head>
     <title>PHP Seite mit Datenbank</title>
 
