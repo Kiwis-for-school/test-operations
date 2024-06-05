@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+// PHP Good
 <head>
     <title>PHP Seite mit Datenbank</title>
 
