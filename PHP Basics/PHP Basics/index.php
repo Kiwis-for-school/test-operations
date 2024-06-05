@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-//Imagine using PHP lol
+//Imagine using PHP lol and unable to use comments correctly too
 <head>
     <title>PHP Seite mit Datenbank</title>
 
